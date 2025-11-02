@@ -1,4 +1,3 @@
-# ACoolFish.github.io
 
 # Hi there 👋, I'm ACoolFish
 
